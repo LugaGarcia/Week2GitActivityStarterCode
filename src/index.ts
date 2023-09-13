@@ -9,5 +9,4 @@ const result_multiply = calc.multiply(2, 3);
 console.log(`result_add = ${result_add}`);
 console.log(`result_divide = ${result_divide}`);
 console.log(`result_multiply = ${result_multiply}`);
-
-
+console.log('done.');
